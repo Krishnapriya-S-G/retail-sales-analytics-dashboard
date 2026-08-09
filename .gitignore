@@ -1,0 +1,7 @@
+cleaned_retail_data.csv
+retail_data.db
+*.csv
+*.db
+venv/
+__pycache__/
+.ipynb_checkpoints/
